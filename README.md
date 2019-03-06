@@ -6,5 +6,6 @@ Figure 1
 .
 .
 .
+<br/>
 By: Danish Mukhtar
 IIIT HYDERABAD
